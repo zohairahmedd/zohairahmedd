@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Zohair Ahmed</h1>
+<h1 align="center">Hello, I'm Zohair Ahmed</h1>
 <h3 align="center">Passionate student developer studying at the University of Guelph</h3>
 
 <h3 align="left">Connect with me:</h3>
