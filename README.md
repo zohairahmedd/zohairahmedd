@@ -1,5 +1,5 @@
-<h1 align="center">Hello, I'm Zohair Ahmed</h1>
-<h3 align="center">A passionate student developer studying Computer Science at the University of Guelph</h3>
+<h2 align="center">Hello, I'm Zohair Ahmed</h2>
+<h4 align="center">A passionate student developer studying Computer Science at the University of Guelph</h4>
 <h4 align="center">Website: https://zohair-ahmed.com/</h4>
 
 <h3 align="left">Connect with me:</h3>
