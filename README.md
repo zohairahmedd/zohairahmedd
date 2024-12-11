@@ -1,5 +1,5 @@
 <h2 align="center">Hi, I'm Zohair</h2>
-<h4 align="center">A passionate 19-year-old student developer studying Computer Science at the University of Guelph</h4>
+<h4 align="center">A passionate 19-year-old student developer studying Computer Science</h4>
 <h4 align="center">Undergrad Research Assistant at the University of Guelph</h4>
 <h4 align="center">Website: https://zohair-ahmed.com/</h4>
 
