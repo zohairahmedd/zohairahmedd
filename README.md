@@ -1,7 +1,7 @@
-<h2 align="center">Hi, I'm Zohair</h2>
-<h4 align="center">A passionate 20-year-old student developer studying Computer Science</h4>
-<h4 align="center">Former Undergrad Research Assistant at the University of Guelph</h4>
-<h4 align="center">Website: https://zohair-ahmed.com/</h4>
+<h2 align="center">i'm zohair</h2>
+<h4 align="center">passionate 20-year-old student developer studying cs</h4>
+<h4 align="center">prev ML researcher @ uofg</h4>
+<h4 align="center">website: https://zohair-ahmed.com/</h4>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=zohairahmedd&label=Profile%20views&color=0e75b6&style=flat" alt="zohairahmedd" /> </p>
 
