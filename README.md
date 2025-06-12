@@ -1,4 +1,4 @@
-<h2 align="center">i'm zohair</h2>
+
 <h4 align="center">passionate 20-year-old student developer studying cs</h4>
 <h4 align="center">prev ML researcher @ uofg</h4>
 <h4 align="center">website: https://zohair-ahmed.com/</h4>
