@@ -1,6 +1,6 @@
 
 <h4 align="center">passionate 20-year-old student developer studying cs</h4>
-<h4 align="center">prev ML researcher @ uofg</h4>
+<h4 align="center">prev ML intern @ uofg</h4>
 <h4 align="center">website: https://zohair-ahmed.com/</h4>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=zohairahmedd&label=Profile%20views&color=0e75b6&style=flat" alt="zohairahmedd" /> </p>
