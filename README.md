@@ -1,5 +1,5 @@
 
-<h4 align="center">passionate 20-year-old student developer studying cs</h4>
+<h4 align="center">20-year-old student ML developer studying cs</h4>
 <h4 align="center">prev ML intern @ uofg</h4>
 <h4 align="center">website: https://zohair-ahmed.com/</h4>
 
